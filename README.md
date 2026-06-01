@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Nafhulza!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I+Love+Coding+and+Building+Things!" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
 ## 🚀 About Me
